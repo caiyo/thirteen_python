@@ -1,0 +1,4 @@
+flask
+flask-socketio
+enum34
+unittest2
